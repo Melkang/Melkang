@@ -1,0 +1,42 @@
+### Hi, I'm Melissa 👋  
+Early-career web developer with a background in **education, operations, and manufacturing**.  
+I enjoy translating ideas into **responsive, accessible, and visually engaging websites** using HTML, CSS, and JavaScript.  
+
+💡 Currently expanding my skills in **JavaScript interactivity, SQL, and data-driven design**.  
+I’m passionate about creating tools and interfaces that make everyday workflows simpler and more intuitive.  
+
+---
+
+### 🧩 Featured Web Development Projects
+- [**Mushroom Foraging Guide**](#) — Interactive JavaScript filters, responsive grid, and accessibility-first design  
+- [**Front-End Space Website**](#) — Multi-page, semantic HTML and ARIA roles for screen reader usability  
+- [**Designer’s Portfolio Template**](#) — Figma-to-code responsive layout with modular HTML/CSS structure  
+
+---
+
+### 🛠️ Tech & Tools
+`HTML5` • `CSS3` • `JavaScript (ES6)` • `MySQL`  
+`GitHub` • `Netlify` • `Cloudflare` • `WordPress`  
+`Microsoft Power Automate` • `Version Control` • `Accessibility (ARIA, WCAG)`
+
+---
+
+### 🌱 What I’m Learning
+- Strengthening JavaScript fundamentals and API integration  
+- Exploring SQL queries and data visualization  
+- Building projects that combine **front-end design + workflow automation**
+
+---
+
+### ✨ A Bit More About Me
+- Self-taught developer blending creativity and structure  
+- Background in **education administration and manufacturing operations**  
+- Enjoys gardening, world cuisine, and finding natural solutions for a balanced life 🌿
+- Born in the U.S. 🇺🇸 to a Brazilian dad 🇧🇷 and Australian mom 🇦🇺, and married to a Japanese-Korean husband 🇯🇵🇰🇷. Our multicultural family has shaped my love for diverse cultures, languages, and food.  
+
+---
+
+### 📬 Let’s Connect
+💼 [LinkedIn](#) &nbsp;|&nbsp; ✉️ [Email](#)
+
+
