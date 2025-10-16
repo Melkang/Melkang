@@ -25,7 +25,7 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 ---
 
 ### 🎓 Certifications
-- [MySQL Bootcamp Certificate – Udemy](https://myseco.udemy.com/certificate/UC-15fc38ce-f6b1-4b6c-a0fb-7d4ec247c3f0/)
+-![MySQL Certificate](./certificate/udemy-certificate-mysql.jpg)
 
 ---
 
