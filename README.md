@@ -25,7 +25,7 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 ---
 
 ### 🎓 Certifications
--![MySQL Certificate](./certificate/udemy-certificate-mysql.jpg)
+-![MySQL Certificate](./certificates/udemy-certificate-mysql.jpg)
 
 ---
 
