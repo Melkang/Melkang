@@ -8,9 +8,12 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 ---
 
 ### 🧩 Featured Web Development Projects
-- [**Mushroom Foraging Guide**](#) — Interactive JavaScript filters, responsive grid, and accessibility-first design  
-- [**Front-End Space Website**](#) — Multi-page, semantic HTML and ARIA roles for screen reader usability  
-- [**Designer’s Portfolio Template**](#) — Figma-to-code responsive layout with modular HTML/CSS structure  
+- [**Mushroom Foraging Guide**](https://github.com/Melkang/Ffsampleprojmelk-mushroom)
+  — Interactive JavaScript filters, responsive grid, and accessibility-first design  
+- [**Front-End Space Website**](https://github.com/Melkang/front-end-space-website-challenge)
+  — Multi-page, semantic HTML and ARIA roles for screen reader usability  
+- [**Designer’s Portfolio Template**](https://github.com/Melkang/figma-design-1-practice-designer-portfolio)
+  — Figma-to-code responsive layout with modular HTML/CSS structure  
 
 ---
 
@@ -37,6 +40,6 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 ---
 
 ### 📬 Let’s Connect
-💼 [LinkedIn](#) &nbsp;|&nbsp; ✉️ [Email](#)
+💼 [LinkedIn](https://www.linkedin.com/in/melkang/) &nbsp;|&nbsp; ✉️ [Email]((mailto:melkang07@gmail.com))
 
 
