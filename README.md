@@ -34,7 +34,9 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 - Self-taught developer blending creativity and structure  
 - Background in **education administration and manufacturing operations**  
 - Enjoys gardening, world cuisine, and finding natural solutions for a balanced life 🌿
-- Born in the U.S. 🇺🇸 to a Brazilian dad 🇧🇷 and Australian mom 🇦🇺, and married to a Japanese-Korean husband 🇯🇵🇰🇷. Our multicultural family has shaped my love for diverse cultures, languages, and food.  
+- Born in the U.S. 🇺🇸 to a Brazilian dad 🇧🇷 and Australian mom 🇦🇺, and married to a Japanese-Korean husband 🇯🇵🇰🇷. Our multicultural family has shaped my love for diverse cultures, languages, and food.
+- Our dog is loving life eating his raw food.
+- As a family, we try to get out in nature as often as we can with the ATVs and at campsites.
 
 ---
 
