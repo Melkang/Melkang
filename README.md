@@ -24,10 +24,8 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 
 ---
 
-### 🌱 What I’m Learning
-- Strengthening JavaScript fundamentals and API integration  
-- Exploring SQL queries and data visualization  
-- Building projects that combine **front-end design + workflow automation**
+### 🎓 Certifications
+- [MySQL Bootcamp Certificate – Udemy](https://myseco.udemy.com/certificate/UC-15fc38ce-f6b1-4b6c-a0fb-7d4ec247c3f0/)
 
 ---
 
@@ -40,6 +38,6 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 ---
 
 ### 📬 Let’s Connect
-💼 [LinkedIn](https://www.linkedin.com/in/melkang/) &nbsp;|&nbsp; ✉️ [Email]((mailto:melkang07@gmail.com))
+💼 [LinkedIn](https://www.linkedin.com/in/melkang/) &nbsp;|&nbsp; ✉️ [Email](mailto:melkang07@gmail.com)
 
 
