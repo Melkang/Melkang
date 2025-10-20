@@ -1,4 +1,4 @@
-### Hi, I'm Melissa 👋  
+### Hi, I'm Melissa! 
 Early-career web developer with a background in **education, operations, and manufacturing**.  
 I enjoy translating ideas into **responsive, accessible, and visually engaging websites** using HTML, CSS, and JavaScript.  
 
@@ -7,7 +7,7 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 
 ---
 
-### 🧩 Featured Web Development Projects
+### Featured Web Development Projects
 - [**Mushroom Foraging Guide**](https://github.com/Melkang/Ffsampleprojmelk-mushroom)
   — Interactive JavaScript filters, responsive grid, and accessibility-first design  
 - [**Front-End Space Website**](https://github.com/Melkang/front-end-space-website-challenge)
@@ -24,7 +24,7 @@ I’m passionate about creating tools and interfaces that make everyday workflow
 
 ---
 
-### 🎓 Certifications
+### Certifications
 **MySQL Bootcamp – Udemy**  
 <img src="./certificates/udemy-certificate-mysql.jpg" width="200" alt="MySQL Certificate Thumbnail">
 
